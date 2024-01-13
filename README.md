@@ -1,5 +1,4 @@
-
-### Hi there �
+### Hi there!
 <!--
 **febres35/febres35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
