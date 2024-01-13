@@ -1,4 +1,4 @@
-### Hi there!, I'm Leonardo Febres
+### Hi there! I'm Leonardo Febres
 <!--
 **febres35/febres35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
