@@ -1,6 +1,6 @@
 <h1 aling="center"> Hi there! 👋 I'm Leonardo Febres </h1>  
 
-<i><img src="https://github.com/febres35/febres35/blob/main/staticFile/img/Software-Product-Development-%E2%80%93-Steps-and-Methodologies.jpg " width="100%" border-radius="9px"/></i>
+<i><img src="https://github.com/febres35/febres35/blob/main/staticFile/img/Software-Product-Development-%E2%80%93-Steps-and-Methodologies.jpg " width="100%" style="border-radius:15px"/></i>
 
 #  Profile <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width="32px">
 
