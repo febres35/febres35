@@ -1,7 +1,6 @@
 
-<img src="https://github.com/febres35/febres35/blob/main/staticFile/img/bannerPerfil.png" width="100%" height=400px style="border-radius:10px;"/>
-#
-<h1 align="center"> Hi there! 👋 I'm Leonardo Febres </h1>  
+<img src="https://github.com/febres35/febres35/blob/main/staticFile/img/bannerPerfil.png" width="100%" style="border-radius:10px;"/>
+<h1 align="center"> Hi there people! 👋 I'm Leonardo Febres </h1>  
 
 #  Profile <img src="https://raw.githubusercontent.com/febres35/febres35/main/staticFile/img/QssGEmpkyEOhBCb7e1.webp" width="32px">
 
@@ -14,7 +13,6 @@
 - 🤔 I’m looking to collaborate on applications distributed with Rest API
 - 💬 Ask me about application integrations with Rest API, Application deployment in Linux Operating System, Performance testing with Jmeter.
 - 📫 How to reach me: 
-    - Email: febres35@gmail.com
     - Discord: febres35
     - Telegram: @Feberes
 - 😄 Pronouns: He
@@ -32,3 +30,5 @@
 - Apache2
 - Postman
 </pre>
+<img src="https://github.com/febres35/febres35/blob/main/staticFile/img/grid-snake.svg" width="100%" style="border-radius:10px;"/>
+
