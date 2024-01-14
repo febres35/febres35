@@ -3,7 +3,7 @@
 <i><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></i>
 
 <p align="center">
-	<i><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi"></i>
+	<i><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width="32px"></i>
 </p>
 
 <!--
@@ -18,6 +18,9 @@
     - Email: febres35@gmail.com
     - Discord: febres35
     - Telegram: @Feberes
-- 😄 Pronouns: Él
-
+- 😄 Pronouns: He
 </pre>
+
+# Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+-
