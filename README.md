@@ -22,12 +22,50 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
+<p align="left"> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"/>
+  </a>
+</p>
 
-- Jmeter
-- VS Code
-- Git
-- PlantUML
-- Apache2
+### 👉 Tools
+<p align="left"> 
+  &emsp;
+  <a href="#"> 
+    <img alt="VScode" src="https://img.shields.io/badge/VS_code-%23007ACC?logo=visualstudiocode"/>
+  </a> 
+  &emsp;
+  <a href="https://jmeter.apache.org" target="blank"> 
+     <img alt="Jmeter" src="https://img.shields.io/badge/Jmeter-%23D22128?logo=apachejmeter"/>
+   </a>
+  &emsp;
+  <a href="" target="blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/GitHub-%23181717?logo=github"/>
+  </a>
+  &emsp;
+   <a href="https://plantuml.com/es/" target="blank">
+    <img alt="PlantUML" src="https://img.shields.io/badge/PlantUML-%23181717?logo=uml"/>
+  </a>
+   &emsp;
+   <a href="https://www.debian.org/index.es.html" target="blank">
+    <img alt="PlantUML" src="https://img.shields.io/badge/Debian-%23181717?logo=debian&labelColor=%23A81D33"/>
+  </a>
+</p>
+
+
 - Postman
 
 <img src="https://github.com/febres35/febres35/blob/main/staticFile/img/grid-snake.svg" width="100%" style="border-radius:10px;"/>
