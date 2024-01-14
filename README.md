@@ -53,20 +53,42 @@
    </a>
   &emsp;
   <a href="" target="blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/GitHub-%23181717?logo=github"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?logo=github"/>
   </a>
   &emsp;
    <a href="https://plantuml.com/es/" target="blank">
     <img alt="PlantUML" src="https://img.shields.io/badge/PlantUML-%23181717?logo=uml"/>
   </a>
    &emsp;
-   <a href="https://www.debian.org/index.es.html" target="blank">
-    <img alt="PlantUML" src="https://img.shields.io/badge/Debian-%23181717?logo=debian&labelColor=%23A81D33"/>
+   <a href="https://www.postman.com/" target="blank">
+    <img alt="postman" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=%23181717&labelColor=%23FF6C37" />
   </a>
 </p>
 
+### 👉 DataBases
+<p align="left"> 
+  &emsp;
+  <a href="https://www.mysql.com/"> 
+    <img alt="Mysql" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=%23181717"/>
+  </a>
+    &emsp;
+  <a href="https://www.postgresql.org/"> 
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=%23181717"/>
+  </a> 
+</p>
 
-- Postman
+### 👉 FrontEnd
+<p align="left"> 
+  &emsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML"> 
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-%23181717?logo=html5&logoColor=%23E34F26"/>
+  </a>
+    &emsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS"> 
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%23181717?logo=css3&logoColor=%231572B6"/>
+  </a> 
+</p>
+
 
 <img src="https://github.com/febres35/febres35/blob/main/staticFile/img/grid-snake.svg" width="100%" style="border-radius:10px;"/>
 
