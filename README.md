@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there! 👋 I'm Leonardo Febres </h1>  
 
-<img src="https://github.com/febres35/febres35/blob/main/staticFile/img/Software-Product-Development-%E2%80%93-Steps-and-Methodologies.jpg " width="100%" style="border-radius: 10px;"/>
+<img src="https://github.com/febres35/febres35/blob/main/staticFile/img/Software-Product-Development-%E2%80%93-Steps-and-Methodologies.jpg " width="100%" height=400px style="border-radius:10px;"/>
 
-#  Profile <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width="32px">
+#  Profile <img src="https://raw.githubusercontent.com/febres35/febres35/main/staticFile/img/QssGEmpkyEOhBCb7e1.webp" width="32px">
 
 <!--
 **febres35/febres35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -19,6 +19,15 @@
 - 😄 Pronouns: He
 </pre>
 
-#  Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-
--
+#  Tools <img src = "https://github.com/febres35/febres35/blob/main/staticFile/img/giphy.gif" width="32px" style="border-radius: 10px;">
+<pre>
+- Jmeter
+- VsCode
+- Git
+- PlantUML
+- IPTABLE
+- Cron
+- Logratate
+- Apache2
+- Postman
+</pre>
