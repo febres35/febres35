@@ -1,6 +1,7 @@
-<h1 align="center"> Hi there! 👋 I'm Leonardo Febres </h1>  
 
-<img src="https://github.com/febres35/febres35/blob/main/staticFile/img/Software-Product-Development-%E2%80%93-Steps-and-Methodologies.jpg " width="100%" height=400px style="border-radius:10px;"/>
+<img src="https://github.com/febres35/febres35/blob/main/staticFile/img/bannerPerfil.png" width="100%" height=400px style="border-radius:10px;"/>
+#
+<h1 align="center"> Hi there! 👋 I'm Leonardo Febres </h1>  
 
 #  Profile <img src="https://raw.githubusercontent.com/febres35/febres35/main/staticFile/img/QssGEmpkyEOhBCb7e1.webp" width="32px">
 
