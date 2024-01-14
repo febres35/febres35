@@ -2,7 +2,7 @@
 
 <i><img src="https://github.com/febres35/febres35/blob/main/staticFile/img/Software-Product-Development-%E2%80%93-Steps-and-Methodologies.jpg " width="80%"/></i>
 
-<p align="center">
+<p align="center">Profile
 	<i><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gi" width="32px"></i>
 </p>
 
@@ -21,6 +21,6 @@
 - 😄 Pronouns: He
 </pre>
 
-# Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+# ### Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 -
